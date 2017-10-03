@@ -1,0 +1,22 @@
+[
+  {
+  	"type": "BasicCard",
+  	"front": "Question One?",
+  	"back": "one"
+  },
+  {
+  	"type": "ClozeCard",
+  	"text": "This sentence contains one cloze text.",
+  	"cloze": "two"
+  },
+  {
+  	"type": "ClozeCard",
+  	"text": "This sentence contains two cloze text.",
+  	"cloze": "three"
+  },
+  {
+  	"type": "ClozeCard",
+  	"text": "This sentence contains three cloze text.",
+  	"cloze": "four"
+  }
+]
