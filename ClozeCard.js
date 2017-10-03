@@ -1,11 +1,9 @@
-// Constructor function for the 'Cloze Card'.
 function ClozeCard(text, cloze) {
     this.text = text.split(cloze);
     this.cloze = cloze;
 
 };
 
-// Constructor that creates a prototype of ClozeCard to return the question missing cloze
 function ClozeCardPrototype() {
 
     this.clozeRemoved = function () {
