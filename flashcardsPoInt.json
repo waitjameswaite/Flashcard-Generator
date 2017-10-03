@@ -1,10 +1,5 @@
 [
   {
-  	"type": "BasicCard",
-  	"front": "Question One?",
-  	"back": "one"
-  },
-  {
   	"type": "ClozeCard",
   	"text": "Post-Internet art has its roots in the Fluxus movement of the 1960's.",
   	"cloze": "Fluxus"

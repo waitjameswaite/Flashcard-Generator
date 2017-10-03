@@ -1,10 +1,5 @@
 [
   {
-  	"type": "BasicCard",
-  	"front": "Question One?",
-  	"back": "one"
-  },
-  {
   	"type": "ClozeCard",
   	"text": "Sol Lewitt's writings, 'Paragraphs on Conceptual Art,' have been influential in forming the Conceptual Art movement.",
   	"cloze": "Sol Lewitt"
