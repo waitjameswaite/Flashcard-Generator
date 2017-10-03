@@ -1,22 +1,27 @@
 [
   {
-  	"type": "BasicCard",
-  	"front": "Question One?",
-  	"back": "one"
+    "type": "BasicCard",
+    "front": "Question One?",
+    "back": "one"
   },
   {
   	"type": "ClozeCard",
-  	"text": "This sentence contains one cloze text.",
-  	"cloze": "two"
+  	"text": "Training her body to make repetitive, simple marks, Agnes Martin made line drawings that were deceivingly simple.",
+  	"cloze": "Agnes Martin"
   },
   {
   	"type": "ClozeCard",
-  	"text": "This sentence contains two cloze text.",
-  	"cloze": "three"
+  	"text": "Most of the artwork from Yves Klein stayed a monochromatic blue.",
+  	"cloze": "Yves Klein"
   },
   {
   	"type": "ClozeCard",
-  	"text": "This sentence contains three cloze text.",
-  	"cloze": "four"
+  	"text": "Donald Judd would utilize fabrication techniques from mass production to make their sculptures.",
+  	"cloze": "Donald Judd"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "The painter, Frank Stella, used polygonal shaped canvases to break free from the 'picture plane'.",
+    "cloze": "Frank Stella"
   }
 ]

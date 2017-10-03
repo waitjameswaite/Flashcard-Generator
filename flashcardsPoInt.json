@@ -6,17 +6,22 @@
   },
   {
   	"type": "ClozeCard",
-  	"text": "This sentence contains one cloze text.",
-  	"cloze": "two"
+  	"text": "Post-Internet art has its roots in the Fluxus movement of the 1960's.",
+  	"cloze": "Fluxus"
   },
   {
   	"type": "ClozeCard",
-  	"text": "This sentence contains two cloze text.",
-  	"cloze": "three"
+  	"text": "Petra Cortwright was one of the first artist to utilize YouTube and ebooks as mediums of distribution.",
+  	"cloze": "Petra Cortwright"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Many artists, such as Cory Archangel, appropriate memes and files from online culture.",
+    "cloze": "Cory Archangel"
   },
   {
   	"type": "ClozeCard",
-  	"text": "This sentence contains three cloze text.",
-  	"cloze": "four"
+  	"text": "Mimicing documentaries, Hito Steyerl's video works tell us to become invisible, we must become smaller than a pixel.",
+  	"cloze": "Hito Steyerl"
   }
 ]

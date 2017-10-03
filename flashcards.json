@@ -6,17 +6,22 @@
   },
   {
   	"type": "ClozeCard",
-  	"text": "This sentence contains one cloze text.",
-  	"cloze": "two"
+  	"text": "Sol Lewitt's writings, 'Paragraphs on Conceptual Art,' have been influential in forming the Conceptual Art movement.",
+  	"cloze": "Sol Lewitt"
   },
   {
   	"type": "ClozeCard",
-  	"text": "This sentence contains two cloze text.",
-  	"cloze": "three"
+  	"text": "The piece, 'Voting Booth', by Hans Haacke asked MoMA attendees to cast ballots into clear cases on topics of the artist's choosing.",
+  	"cloze": "Hans Haacke"
   },
   {
   	"type": "ClozeCard",
-  	"text": "This sentence contains three cloze text.",
-  	"cloze": "four"
+  	"text": "Considered the originator of Conceptual Art, Marcel Duchamp's 'Fountain' called into question the authenticity of the art object.",
+  	"cloze": "Marcel Duchamp"
+  },
+  {
+  	"type": "ClozeCard",
+  	"text": "Investigating language, Lawrence Weiner created wall texts that made viewers think of everything but what they were looking at.",
+  	"cloze": "Lawrence Weiner"
   }
 ]
